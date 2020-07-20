@@ -38,6 +38,6 @@ C. Previous Block fingerprint
 
 5) How the verifiability of the blockchain is being attained?
 Ans: The data stored in each block is copied to/distributed among millions of other storage units. 
-So if any data is changed in anyone storage, the data can be verified by comparing it with other millions of copies that exist.
+So if any data is changed in anyone storage, the data can be verified by comparing it with other millions of copies that exist
 
 
